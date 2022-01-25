@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#player, #computer, #winner{
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    font-size: 80px;
+}
+
+#player{
+    margin-top: 100px;
+    background-color: greenyellow;
+}
+
+#computer{
+    background-color: hotpink;
+}
+
+#winner{
+    background-color: red;
+}
